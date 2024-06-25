@@ -1,7 +1,7 @@
 # Avacado Sales Analytics
 
 ## Overview
-SVOCSdo Sales Analytics is a comprehensive sales data analysis and visualization project. This project leverages a range of powerful tools and technologies to extract, transform, load, and visualize sales data. The primary aim is to provide insights and aid decision-making processes through interactive dashboards and detailed reports.
+Avocado Sales Analytics is a comprehensive sales data analysis and visualization project. This project leverages a range of powerful tools and technologies to extract, transform, load, and visualize sales data. The primary aim is to provide insights and aid decision-making processes through interactive dashboards and detailed reports.
 
 ## Features
 - **Data Extraction and Loading**: Utilizes SQL and Spark for efficient data manipulation and loading.
